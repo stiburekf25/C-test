@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Piskvorky/Piskvorky.csproj" />
   <Project Path="test 1/test 1.csproj" />
 </Solution>
